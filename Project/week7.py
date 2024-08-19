@@ -3,7 +3,7 @@ import smtplib, ssl
 import tkinter
 #import tinker.filedialog import askopenfile
 import csv
-#################################Course 1 Portfolio Project#################################
+#################################Course 1 Portfolio Project###################################
 
 ##Create Person class with first name, last name, available days
 ##, and available times as lists
