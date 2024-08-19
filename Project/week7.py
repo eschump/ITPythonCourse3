@@ -1,17 +1,4 @@
-"""
-Refactor the PersonTester program from course 1 to:
--Create menu to allow user to:
----modify persons name
----change date and time avail
----print report of all and teir abail
----remove person from team
-
-"""
-"""
-----------------Notes---------------
--Can use bool variable and make menu with if and elifs
-
-"""
+#################################Final Course 3 Project#################################
 import smtplib, ssl
 import tkinter
 #import tinker.filedialog import askopenfile
@@ -276,7 +263,7 @@ print("1 Add new team member\n"
       + "5 Find person\n"
       + "6 Remove Team Member\n"
       + "7 Send Schedule as Email\n"
-      + "8 Open file\n"
+      + "8 Upload team members\n"
       + "9 Save Team List\n"
       + "10 Check Availability\n"
       + "11 Exit Program\n"
@@ -357,7 +344,7 @@ while menu:
       + "5 Find person\n"
       + "6 Remove Team Member\n"
       + "7 Send Schedule as Email\n"
-      + "8 Open file\n"
+      + "8 Upload team members\n"
       + "9 Save Team List\n"
       + "10 Check Availability\n"
       + "11 Exit Program\n"
